@@ -1,0 +1,16 @@
+Scenario:
+Implement a class “Transaction” in which daily transactions are recorded in a dynamic array consisting of Product_id and SalesPerson_id providing a constant product price and static revenue variable to record revenue of all instances of transactions for a given day.  Now display daily closing in a given format:
+
+Transaction_01
+SalesPerson_id: Asim123
+Product_id: Dairy01
+Cost=1000rs
+Revenue per transaction= 150rs  
+Total Revenue of all transactions.
+
+Hint: Static will be use to save total revenue. 
+
+Write a C++ code to create at least 10 objects of transactions from Transaction_01 to Transaction_10.
+
+
+
