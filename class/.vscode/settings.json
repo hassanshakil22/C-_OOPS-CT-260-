@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.c++": "cpp",
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "exception": "cpp",
+        "functional": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "stdexcept": "cpp",
+        "typeinfo": "cpp",
+        "iostream": "cpp"
+    }
+}
